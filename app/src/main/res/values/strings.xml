@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meal Management</string>
+    <string name="save">保存</string>
+    <string name="meal_type">食事タイプ</string>
+    <string name="meal_name">メニュー名</string>
+    <string name="calories">カロリー(kcal)</string>
+    <string name="notes">メモ</string>
+</resources>
